@@ -1,3 +1,4 @@
 # Processing-Exercise-Set-A
 ![Minkraft house xd](https://github.com/nikdotexe/Processing-Exercise-Set-A/blob/master/minkraft.PNG)
-![Minkraft house xd](https://github.com/nikdotexe/Processing-Exercise-Set-A/blob/master/idontevenknowman.PNG)
+![Line boys xd](https://github.com/nikdotexe/Processing-Exercise-Set-A/blob/master/idontevenknowman.PNG)
+![Many circles](https://github.com/nikdotexe/Processing-Exercise-Set-A/blob/master/nice%20circle%20boys.PNG)
