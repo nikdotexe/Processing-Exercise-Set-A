@@ -5,3 +5,6 @@
 ![big seizure](https://github.com/nikdotexe/Processing-Exercise-Set-A/blob/master/big%20seizure.PNG)
 ![i think i died](https://github.com/nikdotexe/Processing-Exercise-Set-A/blob/master/is%20this%20what%20you%20see%20when%20you%20die.PNG)
 ![finally its done](https://github.com/nikdotexe/Processing-Exercise-Set-A/blob/master/jeff.gif)
+# Processing-Exercise-Set-B
+![finally its jeff](https://github.com/nikdotexe/Processing-Exercises/blob/master/Exercise9PT2.PNG)
+![i am heff](https://github.com/nikdotexe/Processing-Exercises/blob/master/Exercise9PT1.PNG)
